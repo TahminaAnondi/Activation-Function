@@ -9,19 +9,8 @@ Processing = your brain(neural network) takes these accomplishments and process 
 
 Activation function = This is like our mood threshold. If our accomplishments exceed a certain level(let’s say we finished all my task), we’ll be excited. If not, we’ll be neutral or maybe a little bit down. 
 
-Output = Our mood(excited/neutral/down). 
-
+Output = Our mood(excited/neutral/down).  
  
-
- 
-
-Here Input, X1 = .4 
-
-            X2 = .6 
-
-            X3 = .7 
-
-Weight, W1 = .1, W2 = .2 and W3 = .3 
 
 ![image](https://github.com/TahminaAnondi/Activation-Function/assets/68536783/9cfabc33-6be2-4634-87b4-10313c5977d7)
 
